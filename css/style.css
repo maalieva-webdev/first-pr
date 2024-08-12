@@ -1,0 +1,64 @@
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.mountain {
+  border-radius: 0;
+}
+
+.mountainTwo {
+  width: 200px;
+  height: 200px;
+  border-radius: 40px;
+}
+
+h1 {
+  color: red;
+  
+  font-size: 35px;
+  letter-spacing: 5px;
+  text-decoration: underline;
+
+  text-align: center;
+  text-transform: uppercase;
+}
+
+body {
+  background: url(../img/hack.jpeg) no-repeat center/cover;
+}
+
+span {
+  color: green;
+}
+.text {
+  color: red;
+  line-height: 15px;
+  text-decoration: underline;
+}
+input {
+  border: 3px solid green;
+  border-radius: 5px;
+  outline: none;
+  padding: 10px 10px;
+  margin: 10px 10px;
+}
+.btn {
+  background: orange;
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.btnTwo {
+  background: palevioletred;
+  border: none;
+  color: white;
+
+  border-radius: 20px;
+  cursor: pointer;
+  width: 100px;
+  height: 40px;
+}
